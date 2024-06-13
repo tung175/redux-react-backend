@@ -1,5 +1,4 @@
 # redux-react-server-backend
-backend nodejs for series redux on udemy
 
 step 1: clone this project
 
